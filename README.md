@@ -20,7 +20,7 @@ G-번역보드의 첫 공개 버전입니다.
 
 권장 파일:
 
-`G-Translation-Board-Setup-v0.7.1.exe`
+`G-번역보드-v0.7.1.exe`
 
 ## 설치 시 참고
 
